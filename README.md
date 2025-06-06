@@ -15,7 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
+To get the up run 
+gitclone https://github.com/ahmedCodeaxis/undercover.git
 
 ->run this to get the needed packages:
 
